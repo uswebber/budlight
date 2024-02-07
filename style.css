@@ -1,0 +1,79 @@
+body {
+    overflow-x: auto;
+    overflow-y: scroll;
+}
+body, html {
+    height: 100%;
+}
+body {
+    --scrollbar-width: 0px;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+
+body, html {
+    background: transparent;
+    border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+:root, :host, .spxThemeOverride {
+    --color_0: 255,254,248;
+    --color_1: 13,33,35;
+    --color_2: 18,48,51;
+    --color_3: 38,67,70;
+    --color_4: 251,249,235;
+    --color_5: 248,207,169;
+    --color_6: 255,254,248;
+    --color_7: 167,217,222;
+    --color_8: 84,182,191;
+    --color_9: 44,111,118;
+    --color_10: 13,33,35;
+    --color_11: 255,254,248;
+    --color_12: 167,217,222;
+    --color_13: 84,182,191;
+    --color_14: 44,111,118;
+    --color_15: 13,33,35;
+    --color_16: 146,210,217;
+    --color_17: 56,150,160;
+    --color_18: 18,48,51;
+    --color_19: 12,32,34;
+    --color_20: 6,16,17;
+    --color_21: 203,224,227;
+    --color_22: 151,194,198;
+    --color_23: 99,163,170;
+    --color_24: 66,117,122;
+    --color_25: 38,67,70;
+    --color_26: 253,252,245;
+    --color_27: 251,249,235;
+    --color_28: 231,219,134;
+    --color_29: 202,182,41;
+    --color_30: 101,91,20;
+    --color_31: 252,231,212;
+    --color_32: 248,207,169;
+    --color_33: 240,153,73;
+    --color_34: 193,101,16;
+    --color_35: 96,50,8;
+    --font_0: normal normal normal 88px/1.2em 'playfair display',serif;
+    --font_1: normal normal normal 14px/1.79em montserrat,sans-serif;
+    --font_2: normal normal normal 72px/1.25em 'playfair display',serif;
+    --font_3: normal normal normal 50px/1.34em 'playfair display',serif;
+    --font_4: normal normal normal 40px/1.35em 'playfair display',serif;
+    --font_5: normal normal normal 28px/1.375em 'playfair display',serif;
+    --font_6: normal normal normal 22px/1.41em 'playfair display',serif;
+    --font_7: normal normal normal 20px/1.67em montserrat,sans-serif;
+    --font_8: normal normal normal 18px/1.75em montserrat,sans-serif;
+    --font_9: normal normal normal 15px/1.875em montserrat,sans-serif;
+    --font_10: normal normal normal 14px/1.79em montserrat,sans-serif;
+    --wix-ads-height: 50px;
+    --sticky-offset: 50px;
+    --wix-ads-top-height: 50px;
+
+}
